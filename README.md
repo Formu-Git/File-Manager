@@ -17,4 +17,9 @@ Afficher les fichiers et dossiers d'un repertoire.
 Supprimer les fichiers ayant une extension specifique.
 #### 4 📄
 Crypter / Decrypter des fichiers. [ARRIVE PROCHAINEMENT]
+### Apercu 🌧
+<img src="https://zupimages.net/up/22/06/t731.png">
 
+<img src="https://zupimages.net/up/22/06/ckkd.png">
+
+<img src="https://zupimages.net/up/22/06/s2ly.png">
