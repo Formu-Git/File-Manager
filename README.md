@@ -1,7 +1,7 @@
 # Gestionnaire-de-fichier ©
 
 ## Introduction ✔
-Un simple outil pour gerer vos fichiers et dossiers.
+Un simple outil pour gerer vos fichiers.
 
 ## Informations ✔
 ### Modules 🌧
