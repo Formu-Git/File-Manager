@@ -15,5 +15,5 @@ Display all files of a folder.
 #### 3 📄
 Delete files that have a certain extension.
 #### 4 📄
-Crypt and decrypt your files. [PROCHAINEMENT]
+Crypt and decrypt your files. [soon]
 
