@@ -10,11 +10,11 @@ Un simple outil pour gerer vos fichiers fait par moi meme dans le but de pratiqu
 - keyboard 🚩
 ### Fonctionnalités 🌧
 #### 1 📄
-Classify files with their extensions.
+Classer vos fichiers par extension.
 #### 2 📄
-Display all files of an folder.
+Afficher tout les fichiers d'un repertoire.
 #### 3 📄
-Delete files that have certain extension.
+Supprimer tous les fichiers qui ont une certaine extension.
 #### 4 📄
-Crypt and decrypte any files. [SOON]
+Crypter et decrypter des fichiers. [PROCHAINEMENT]
 
