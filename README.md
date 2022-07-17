@@ -1,20 +1,19 @@
-# Gestionnaire-de-fichier ©
-
+# File Manager ©
 ## Introduction ✔
-Un simple outil pour gerer vos fichiers fait par moi meme dans le but de pratiquer.
+A simple tool that help you to manage yours files, created by me to practice.
 
-## Informations ✔
-### Modules 🌧
+## More informations ✔
+### Credits 🌧
 - Os 🚩
 - Time 🚩
 - keyboard 🚩
-### Fonctionnalités 🌧
+### What can File Manger do ? 🌧
 #### 1 📄
-Classer vos fichiers par extension.
+Classify your files with their extension.
 #### 2 📄
-Afficher tout les fichiers d'un repertoire.
+Display all files of a folder.
 #### 3 📄
-Supprimer tous les fichiers qui ont une certaine extension.
+Delete files that have a certain extension.
 #### 4 📄
-Crypter et decrypter des fichiers. [PROCHAINEMENT]
+Crypt and decrypt your files. [PROCHAINEMENT]
 
