@@ -10,16 +10,11 @@ Un simple outil pour gerer vos fichiers fait par moi meme dans le but de pratiqu
 - keyboard 🚩
 ### Fonctionnalités 🌧
 #### 1 📄
-Classer les fichiers selon leur extension.
+Classify files with their extensions.
 #### 2 📄
-Afficher les fichiers et dossiers d'un repertoire.
+Display all files of an folder.
 #### 3 📄
-Supprimer les fichiers ayant une extension specifique.
+Delete files that have certain extension.
 #### 4 📄
-Crypter / Decrypter des fichiers. [ARRIVE PROCHAINEMENT]
-### Apercu 🌧
-<img src="https://zupimages.net/up/22/06/t731.png">
+Crypt and decrypte any files. [SOON]
 
-<img src="https://zupimages.net/up/22/06/ckkd.png">
-
-<img src="https://zupimages.net/up/22/06/s2ly.png" href="google.com">
